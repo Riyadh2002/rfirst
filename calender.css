@@ -1,0 +1,73 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+
+
+
+.main-box{
+    background-color: rgb(123, 172, 214);
+    height: 800px;
+    display: grid;
+    grid-template-columns: 60% 40%;
+    padding: 250px;}
+
+.date{
+    height: 400px;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 14.29% 14.29% 14.29% 14.29%
+    14.29% 14.29% 14.29%;
+}
+
+.dates{
+    height: 400px;
+    background-color: rgb(230, 65, 36);
+}
+
+.dates h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1000%;
+    color: azure;
+    text-align: right;
+    font-weight: lighter ;
+    padding-top: 15px;
+    padding-right: 30px;
+}
+
+.dates h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color:black;
+    text-align: right;
+    padding-right: 20px;
+    font-weight: lighter;
+    font-style: inherit;
+}
+
+.dates h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    text-align: right;
+    padding-right: 20px;
+    font-weight: lighter;
+    font-style: inherit;
+    opacity: 60%;
+}
+
+.D{
+    color: rgb(247, 72, 41);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    padding: 22px;
+    padding-top: 30px;
+    font-size: large;
+
+}
+
+.N{
+    color: rgb(248, 246, 246);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 22px;
+   
+}
